@@ -1,2 +1,2 @@
 # CalculatorJava
-# School project in Java
+School project in Java
